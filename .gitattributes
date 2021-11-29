@@ -1,3 +1,5 @@
 *.vue linguist-language=typescript
 *.scss linguist-detectable=false
 
+frontend/static/sw.js linguist-vendored
+
