@@ -1,0 +1,3 @@
+*.vue linguist-language=typescript
+*.scss linguist-detectable=false
+
